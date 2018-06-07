@@ -1,0 +1,8 @@
+.app{
+    text-align: center;
+}
+
+.app input {
+    width: 400px;
+    padding: 10px;
+}
